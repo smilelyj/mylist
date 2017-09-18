@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="thin_dividers">2dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title_text_size">20sp</dimen>
+    <dimen name="side_margin">20dp</dimen>
+    <dimen name="product_drawing_height">350dp</dimen>
+    <dimen name="subtitle_text_size">18sp</dimen>
+    <dimen name="line_height">3dp</dimen>
+    <dimen name="map_height">200dp</dimen>
+    <dimen name="notes_padding">10dp</dimen>
+    <dimen name="bottom_margin_table_title">2dp</dimen>
+    <dimen name="top_margin_table_title">10dp</dimen>
+    <dimen name="table_row_topbottom_margin">5dp</dimen>
+    <dimen name="table_title_text_size">13sp</dimen>
+    <dimen name="gray_subtitle_text_size">15sp</dimen>
+    <dimen name="notes_text_size">18sp</dimen>
+    <dimen name="blue_button_height">60dp</dimen>
+    <dimen name="button_text_size">18sp</dimen>
+    <dimen name="switcher_button_text_size">13sp</dimen>
+    <dimen name="search_side_margin">10dp</dimen>
+    <dimen name="padding_flip_buttons">15dp</dimen>
+    <dimen name="packing_set_number_item_textsize">15sp</dimen>
+
+
+    <!-- These values will change depending on the screen size -->
+    <dimen name="pictures_login_margin">20dp</dimen>
+    <dimen name="login_screen_text_size">20sp</dimen>
+    <dimen name="transparent_button_padding">10dp</dimen>
+    <dimen name="search_result_text_size">20sp</dimen>
+
+</resources>
